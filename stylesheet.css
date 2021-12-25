@@ -1,0 +1,143 @@
+	body, html {height:100%;
+		font-family: 'Rampart One', cursive;
+		font-size: 15px;}
+	.img1, .img2, .img3, .img4, .img5, .img6, .img7, .img8, .img9, .img10, .img11, .img12, .img13, .img14, .img15
+		{background-attachment: fixed;		
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+		margin: -10px -8px 10px -10px;
+		padding-left: 25%;
+		opacity: 90%;}
+	.img1{background-image: url('images/img1.jpg');		/* SPACE */
+		min-height: 100%;}
+	.img2{background-image: url('images/img2.jpg');	/* ATMOSPHERE */
+		min-height: 75%;}
+	.img3{background-image: url('images/img3.jpg');
+		min-height: 75%;}
+	.img4{background-image: url('images/img4.jpg');
+		min-height:75%;}
+	.img5{background-image: url('images/img5.jpeg');
+		min-height: 75%;}
+	.img6{background-image: url('images/img6.jpeg');
+		min-height: 75%;}
+	.img7{background-image: url('images/img7.jpg');	/* LAND */
+		min-height: 100%;}
+	.img8{background-image: url('images/img8.jpg');	/* OCEAN */
+		min-height: 75%;}
+	.img9{background-image: url('images/img9.jpg');
+		min-height: 75%;}
+	.img10{background-image: url('images/img10.jpg');
+		min-height:75%;}
+	.img11{background-image: url('images/img11.jpeg');
+		min-height: 75%;}
+	.img12{background-image: url('images/img12.jpg');
+		min-height: 75%;
+		opacity: 95%;}
+	.img13{background-image: url('images/img13.jpeg');	/* CRUST */
+		min-height: 100%;}
+	.img14{background-image: url('images/img14.jpg');	/* MANTLE */
+		min-height: 100%;}
+	.img15{background-image: url('images/img15.jpg');	/* CORE */
+		min-height: 100%;}
+	.txtimg1, .txtimg2, .txtimg3, .txtimg4, .txtimg5, .txtimg6, .txtimg7, .txtimg13, .txtimg14, .txtimg15
+		{position: relative;
+		width: 44%;
+		margin: 0px 0px 0px 100px;
+		border-radius: 20px;}
+	.txtimg8, .txtimg9, .txtimg10, .txtimg11, .txtimg12
+		{position: relative;
+		width: 54%;
+		margin: 0px 0px 0px 85px;
+		border-radius: 20px;}
+	.txtimg1{background-color: black;	/* SPACE */
+		color: #FA6FFA;
+		top: 9em;}
+	.txtimg2{color: #7A83C7;	/* ATMOSPHERE */
+		top: 6em;}
+	.txtimg3{color: #D09657;
+		top: 6em;} 
+	.txtimg4{color: #AECFE9;
+		top: 6em;} 
+	.txtimg5{color: #DABC8A;
+		top: 6em;}
+	.txtimg6{color: rgb(240, 255, 255);
+		top: 6em;}
+	.txtimg7{background-color: #D27B45; 	/* LAND */
+		color: #FFD6A2;
+		top: 9em;}
+	.txtimg8{color: #EBECED; 				/* OCEAN */
+		top: 6em;}
+	.txtimg9{color: #449DEE;
+		top: 6em;} 
+	.txtimg10{color: #2A868C;
+		top: 6em;}
+	.txtimg11{color: #20293F;
+		top: 6em;} 
+	.txtimg12{color: #202020;
+		top: 6em;}
+	.txtimg13{background-color: #4F514D;	/* CRUST */
+		color: #B0B0AE;
+		top: 9em;}
+	.txtimg14{background-color: #64696B;		/* MANTLE */
+		color: #CCCDC9;
+		top: 9em;}	
+	.txtimg15{background-color: #A6A393;	/* CORE */
+		color: #574F45;
+		top: 9em;}
+	.txt1, .txt2, .txt3, .txt4, .txt5, .txt6, .txt7, .txt8 , .txt9 , .txt10, .txt11, .txt12, .txt13, .txt14
+		{margin: -10px -8px 10px -10px;
+		padding: 1px 0px 0px 30px;}
+	.txt1{min-height: 72%;			/* SPACE */
+		background-color: black;
+		color: #F54AF1;
+		opacity: 85%;}
+	.txt2{min-height: 45%;			/* ATMOSPHERE*/
+		background-color: #070707;
+		color: #74AE8B;
+		opacity: 80%;}
+	.txt3{min-height: 45%;
+		background-color: #324655;
+		color: #61D8AE;
+		padding-bottom: 15px;}
+	.txt4{min-height: 30%;
+		background-color: #345171;
+		color: #C1D8FA;
+		padding-bottom: 1px;}
+	.txt5{min-height: 45%;
+		background-color: #C4CAD0;
+		color: #696969;
+		opacity: 80%;}
+	.txt6{min-height: 45%;
+		background-color: #F5F5F5;
+		color: #7E959D;}
+	.txt7{min-height: 75%; 			/* LAND */
+		background-color: #CBC819;
+		color: #687719;
+		opacity: 80%;}	
+	.txt8{min-height: 45%;			/* OCEAN */
+		background-color: #3FB9AB;
+		color: #D5E1E3;}
+	.txt9{min-height: 45%;
+		background-color: #2667B0;
+		color: #4FCBEE;}
+	.txt10{min-height: 45%;
+		background-color: #193A5F;
+		color: #25788C;}
+	.txt11{min-height: 45%;
+		background-color: #2A2834;
+		color: #506D7A;}
+	.txt12{min-height: 45%;
+		background-color: #191A1F;
+		color: #1C354F;}
+	.txt13{min-height: 50%; 			/* CRUST */
+		background-color: #8D8D8D;
+		color: #222727;
+		opacity: 80%;}	
+	.txt14{min-height: 50%;			/* MANTLE */
+		background-color: #B8BBBA;
+		color: #7C7C7A;
+		padding-bottom: 1px;}
+	img{border-radius:10px;}
+	h2, h3 {margin-right: 25px; 
+		text-align: justify;}
